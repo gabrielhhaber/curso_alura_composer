@@ -1,5 +1,5 @@
-{
-    "name": "mick/buscador",
+#!/usr/bin/env php
+	"name": "mick/buscador",
     "description": "buscador de cursos no site da alura",
     "type": "library",
     "license": "MIT",
@@ -40,5 +40,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do código: phan, PHPCS e PHPUNIT"
-    }
+    },
+    "bin": ["buscar_cursos.php"]
 }
