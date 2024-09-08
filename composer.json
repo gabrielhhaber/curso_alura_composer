@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+{
 	"name": "mick/buscador",
     "description": "buscador de cursos no site da alura",
     "type": "library",
