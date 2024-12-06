@@ -1,2 +1,1 @@
-# Documentação do componente
-
+# Este foi um projeto desenvolvido em um curso sobre PHP na plataforma Alura. O projeto é um pacote buscador de cursos desenvolvido em PHP para o Composer, que busca os cursos de PHP dentro da plataforma da Alura e os exibe na tela do usuário.
